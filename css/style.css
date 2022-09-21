@@ -1,0 +1,17 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  background-color: rgba(224, 221, 219, 0.605);
+  border-radius: 10px;
+}
+
+.bg-issue {
+  background-color: rgba(142, 204, 243, 0.425);
+  border-radius: 10px;
+}
+
+.label-info {
+  font-size: 14px;
+}
